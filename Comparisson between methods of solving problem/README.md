@@ -1,4 +1,4 @@
 
 ***Rest&Soap***
-<hr>
+<hr></hr>
 ***CLI&GUI***
